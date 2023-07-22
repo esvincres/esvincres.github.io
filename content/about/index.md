@@ -5,7 +5,7 @@ draft: false
 featured_image: '/images/esvin.jpg'
 ---
 
-My name is Esvin Crescencio and this is my site dedicated to exploring the artistic designs and choices by those that have created fansites dedicated to video games.
+My name is Esvin and this is my site dedicated to exploring the artistic designs and choices by those that have created fansites dedicated to video games.
 
 This is my work:
 
